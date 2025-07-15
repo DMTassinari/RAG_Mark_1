@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+tokenizers>=0.13.0
+flask>=2.3.0
+werkzeug>=2.3.0
+numpy>=1.21.0
+tqdm>=4.64.0
+scikit-learn>=1.3.0
+accelerate>=0.20.0
